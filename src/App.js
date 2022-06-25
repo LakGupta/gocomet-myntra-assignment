@@ -31,7 +31,7 @@ function App() {
   return (
     <CartProvider>
       <Switch>
-        <Route path="/myntra-cloneapp" exact>
+        <Route path="/gocomet-myntra-assignment" exact>
           {console.log(cartIsShown)}
           {cartIsShown && <Cart onHide={hideCartHandler}></Cart>},
           <Navbar onClickCart={showCartHandler} onSearch={getSearchTerm} />,

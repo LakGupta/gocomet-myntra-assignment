@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gocomet-myntra-assignment/static/css/main.71dd3287.chunk.css",
+    "main.js": "/gocomet-myntra-assignment/static/js/main.854b78a1.chunk.js",
+    "main.js.map": "/gocomet-myntra-assignment/static/js/main.854b78a1.chunk.js.map",
+    "runtime-main.js": "/gocomet-myntra-assignment/static/js/runtime-main.39848521.js",
+    "runtime-main.js.map": "/gocomet-myntra-assignment/static/js/runtime-main.39848521.js.map",
+    "static/js/2.bc8707b8.chunk.js": "/gocomet-myntra-assignment/static/js/2.bc8707b8.chunk.js",
+    "static/js/2.bc8707b8.chunk.js.map": "/gocomet-myntra-assignment/static/js/2.bc8707b8.chunk.js.map",
+    "static/js/3.74df0f5e.chunk.js": "/gocomet-myntra-assignment/static/js/3.74df0f5e.chunk.js",
+    "static/js/3.74df0f5e.chunk.js.map": "/gocomet-myntra-assignment/static/js/3.74df0f5e.chunk.js.map",
+    "index.html": "/gocomet-myntra-assignment/index.html",
+    "static/css/main.71dd3287.chunk.css.map": "/gocomet-myntra-assignment/static/css/main.71dd3287.chunk.css.map",
+    "static/js/2.bc8707b8.chunk.js.LICENSE.txt": "/gocomet-myntra-assignment/static/js/2.bc8707b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39848521.js",
+    "static/js/2.bc8707b8.chunk.js",
+    "static/css/main.71dd3287.chunk.css",
+    "static/js/main.854b78a1.chunk.js"
+  ]
+}

@@ -27,7 +27,7 @@ export default function Navbar(props) {
   return (
     <nav className="d-flex justify-content-between">
       <div className="left d-flex align-items-center">
-        <Link className="myntra-logo" to="/myntra-cloneapp"></Link>
+        <Link className="myntra-logo" to="/gocomet-myntra-assignment"></Link>
         <ul className="d-flex align-items-center justify-content-center">
           <li>Men</li>
           <li>Women</li>

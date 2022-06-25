@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gocomet-myntra-assignment/static/css/main.71dd3287.chunk.css",
-    "main.js": "/gocomet-myntra-assignment/static/js/main.854b78a1.chunk.js",
-    "main.js.map": "/gocomet-myntra-assignment/static/js/main.854b78a1.chunk.js.map",
+    "main.js": "/gocomet-myntra-assignment/static/js/main.8ebdea5d.chunk.js",
+    "main.js.map": "/gocomet-myntra-assignment/static/js/main.8ebdea5d.chunk.js.map",
     "runtime-main.js": "/gocomet-myntra-assignment/static/js/runtime-main.39848521.js",
     "runtime-main.js.map": "/gocomet-myntra-assignment/static/js/runtime-main.39848521.js.map",
     "static/js/2.bc8707b8.chunk.js": "/gocomet-myntra-assignment/static/js/2.bc8707b8.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.39848521.js",
     "static/js/2.bc8707b8.chunk.js",
     "static/css/main.71dd3287.chunk.css",
-    "static/js/main.854b78a1.chunk.js"
+    "static/js/main.8ebdea5d.chunk.js"
   ]
 }

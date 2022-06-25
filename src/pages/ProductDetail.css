@@ -1,0 +1,176 @@
+.custom-image-container img {
+  width: 420px;
+  height: 520px;
+  min-height: 220px;
+  border: 1px solid #edebef;
+  margin: 0.25rem;
+}
+
+.ratings-container {
+  border: 1px solid #eaeaec;
+  width: fit-content;
+  padding: 4px;
+  border-radius: 2px;
+}
+
+.myntraweb-sprite {
+  background: url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);
+  background-size: 1404px 105px;
+  display: inline-block;
+}
+
+.productRatingsExcellentIcon {
+  background-position: -171px -28px;
+  width: 24px;
+  height: 24px;
+  transform: scale(0.6);
+}
+
+.ratings-value {
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.ratings-container span {
+  margin: 0;
+}
+
+.ratings-separator {
+  color: #d4d5d9;
+  width: 1px;
+}
+
+.ratings-count {
+  margin-left: 8px;
+  color: #535766;
+  font-weight: 400;
+}
+
+.ratings-outer-container {
+  padding-bottom: 12px;
+  border-bottom: 1px solid #edebef;
+}
+
+.discount-container .discounted-price{
+    font-size: 24px;
+    color: #282c3f;
+}
+
+.discount-container .product-strike{
+    font-size: 20px;
+    color: #282c3f;
+    line-height: 1.2;
+    margin-right: 6px;
+}
+
+.discount-container .product-discountPercentage{
+    color:#ff905a;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.product-taxes{
+    color: #03a685;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+span{
+    margin: 0;
+    padding: 0;
+}
+
+.sizes-header{
+    display: inline-block;
+    
+}
+
+.sizes-header h4{
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
+
+.sizes-header span{
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
+
+.size-buttons-size{
+    border-radius: 50px;
+    height: 50px;
+    min-width: 50px;
+    color: #282c3f;
+    border: 1px solid #bfc0c6;
+    background-color: #fff;
+}
+
+.size-buttons-size p{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.add-to-bag-button{
+    border: 1px solid #ff3e6c;
+    background-color: #ff3e6c;
+    padding: 15px 0;
+    min-width: 108px;
+    border-radius: 4px;
+    width: 100%;
+    margin-right: 12px;
+    color: white;
+    font-weight: bolder;
+}
+
+ .add-to-bag-button:hover{
+    background-color: #ff5f85;
+    cursor: pointer;
+}
+
+.product-action-container{
+    width: 65%;
+}
+.white-bag-icon{
+    background: url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);
+    background-size: 1404px 105px;
+    display: inline-block;
+    background-position: -2283px -40px;
+    width: 23px;
+    height: 22px;
+    margin-right: 12px;
+    transform: scale(.9);
+}
+
+.wishlist-bag-icon{
+    background: url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);
+    background-size: 1404px 105px;
+    display: inline-block;
+    width: 17px;
+    height: 22px;
+    background-position: -315px -186px;
+    margin-right: 12px;
+}
+
+.wishlist-button{
+    width: 55%;
+    border-radius: 4px;
+    border: 1px solid #d4d5d9;
+    color: #282c3f ;
+    font-weight: bolder !important;
+}
+
+.wishlist-button:hover{
+    border: 1px solid black;
+    cursor: pointer;
+}
+.size-buttons-size:active{
+    border: 1px solid #ff3e6c;
+    color: #ff3e6c ;
+
+}
+
+.size-buttons-size:focus{
+    border: 1px solid #ff3e6c;
+    color: #ff3e6c ;
+}

@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+html,
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+nav ul li {
+  list-style: none;
+  padding: 0 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+nav ul {
+  margin-left: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+nav {
+  position: sticky !important;
+  top: 0;
+  background-color: white;
+  padding: 0 5vw;
+  min-height: 4rem;
+  box-shadow: 0 4px 12px 0 rgb(0 0 0 / 5%);
+}
+
+a {
+  text-decoration: none;
+  color: #282c3f;
+}
+
+.right input {
+  width: 35vw;
+  border: 1px solid #f5f5f6;
+  background-color: #f5f5f6;
+  color: #696e79;
+  font-size: 14px;
+  border-radius: 0 4px 4px 0;
+  height: 30px;
+  padding: 8px 10px 10px !important;
+}
+
+.profile {
+  display: block;
+}
+
+.myntra-logo {
+  background: url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);
+  background-size: 1404px 105px;
+  display: inline-block;
+
+  width: 53px;
+  height: 36px;
+  background-position: -462px 0;
+}
+
+.icon-bag-logo {
+  background: url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);
+  background-size: 1404px 105px;
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  background-position: -341px -56px;
+}
+
+.wishlist-bag-logo {
+  background: url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);
+  background-size: 1404px 105px;
+  display: inline-block;
+  width: 17px;
+  height: 22px;
+  background-position: -315px -187px;
+  margin-left: 8px;
+
+}
+
+.profile-icon-logo{
+  background: url(https://constant.myntassets.com/web/assets/img/MyntraWebSprite_27_01_2021.png);
+  background-size: 1404px 105px;
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-position: -298px -56px;
+  margin-left: 8px;
+}
